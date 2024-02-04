@@ -74,5 +74,4 @@
   <br/>
 </a>
 
-
-[![Ryan Van Drunen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanvandrunen&bg_color=1c1c1c&color=e36d32&line=e36d32&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ryan Van Drunen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanvandrunen&bg_color=36393f&color=faa627&line=faa627&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
