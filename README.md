@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=slateorange&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 ![Ryan Van Drunen's Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvandrunen&theme=darcula)
