@@ -19,6 +19,16 @@
   </samp>
 </p>
 
+<p align="center">
+ <a href="https://ryanvandrunen.github.io" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/ryan-vandrunen" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+</p>
+<br />
+
 - 🔭 I’m currently working on [RecipMe](https://github.com/ryanvandrunen/qhacks-project)
 
 - 👨‍💻 All of my projects are available at [ryanvandrunen.github.io](https://ryanvandrunen.github.io)
