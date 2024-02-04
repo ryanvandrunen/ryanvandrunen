@@ -68,9 +68,9 @@
   </a>
 </p>
 
-<a align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=ryanvandrunen&theme=slateorange&show_icons=true&hide_border=false&count_private=true" alt="ryanvandrunen's Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvandrunen&theme=slateorange&show_icons=true&hide_border=false&layout=compact" alt="ryanvandrunen's Top Languages"/>
+<a> 
+    <a href="https://github.com/ryanvandrunen"><img src="https://github-readme-stats.vercel.app/api?username=ryanvandrunen&theme=slateorange&show_icons=true&hide_border=false&count_private=true" alt="ryanvandrunen's Stats" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ryanvandrunen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvandrunen&theme=slateorange&show_icons=true&hide_border=false&layout=compact" alt="ryanvandrunen's Top Languages" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
