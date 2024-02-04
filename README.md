@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://github.com/ryanvandrunen">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvandrunen&theme=radical" alt="Ryan Van Drunen's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvandrunen&theme=slateorange" alt="Ryan Van Drunen's GitHub Contributions"/>
   </a>
 </p>
 
