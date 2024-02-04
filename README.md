@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RecipMe](https://github.com/ryanvandrunen/qhacks-project)
 
-- 👨‍💻 All of my projects are available at [ryanvandrunen.github.io](ryanvandrunen.github.io)
+- 👨‍💻 All of my projects are available at [ryanvandrunen.github.io](https://ryanvandrunen.github.io)
 
 - 📫 How to reach me **21rdbv@queensu.ca**
 
