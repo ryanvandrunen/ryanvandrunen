@@ -52,9 +52,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ryanvandrunen">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryanvandrunen&theme=radical&border=7F3FBF&background=0D1117" alt="Ryan's GitHub Streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=dark&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
