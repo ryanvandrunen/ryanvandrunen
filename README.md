@@ -6,7 +6,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
     「 Sophomore at Queen's University pursuing a Bachelor of Computing Honours, specializing in Computer Sciences with an option in Security. 」
     <br>
