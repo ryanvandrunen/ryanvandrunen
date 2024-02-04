@@ -1,5 +1,18 @@
-<h1 align="center">Hi 👋, I'm Ryan Van Drunen</h1>
-<h3 align="center">Sophomore at Queen's University pursuing a Bachelor of Computing Honours, specializing in Computer Sciences with an option in Security.</h3>
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://ryanvandrunen.github.io">Ryan Van Drunen</a></b>
+        </samp>
+</h3>
+
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <br>
+    「 Sophomore at Queen's University pursuing a Bachelor of Computing Honours, specializing in Computer Sciences with an option in Security. 」
+    <br>
+    <br>
+  </samp>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanvandrunen&label=Profile%20views&color=0e75b6&style=flat" alt="ryanvandrunen" /> </p>
 
