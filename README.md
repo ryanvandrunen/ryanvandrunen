@@ -66,7 +66,7 @@
 
 <p align="center">
   <a href="https://github.com/ryanvandrunen">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvandrunen&theme=darcula)
+    ![Ryan Van Drunen's Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvandrunen&theme=darcula)
   </a>
 </p>
 
