@@ -13,14 +13,11 @@
 
 <p align="center"> 
   <samp>
-    <br>
     「 Sophomore at Queen's University pursuing a Bachelor of Computing Honours, specializing in Computer Sciences with an option in Security. 」
     <br>
     <br>
   </samp>
 </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryanvandrunen&label=Profile%20views&color=0e75b6&style=flat" alt="ryanvandrunen" /> </p>
 
 - 🔭 I’m currently working on [RecipMe](https://github.com/ryanvandrunen/qhacks-project)
 
