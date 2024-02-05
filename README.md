@@ -1,4 +1,4 @@
-<a href="https://komarev.com/ghpvc/?username=ryanvandrunen">
+<a href="https://github.com/ryanvandrunen">
   <img align="right" src="https://komarev.com/ghpvc/?username=ryanvandrunen&label=Visitors&color=e36d32&style=flat" alt="Profile visitor" />
 </a>
 
@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=slateorange&border_radius=10" alt="GitHub Streak" /></a>
+  <a href="[https://git.io/streak-stats](https://github.com/ryanvandrunen)"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=slateorange&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -74,4 +74,4 @@
   <br/>
 </a>
 
-[![Ryan Van Drunen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanvandrunen&bg_color=36393f&color=faa627&line=faa627&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ryan Van Drunen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanvandrunen&bg_color=36393f&color=faa627&line=faa627&point=ffffff&area=true&hide_border=true)](https://github.com/ryanvandrunen)
