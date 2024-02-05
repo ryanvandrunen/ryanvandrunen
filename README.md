@@ -59,7 +59,7 @@
 <br/>
 
 <p align="center">
-  <a href="[https://git.io/streak-stats](https://github.com/ryanvandrunen)"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=slateorange&border_radius=10" alt="GitHub Streak" /></a>
+  <a href="[https://github.com/ryanvandrunen](https://github.com/ryanvandrunen)"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=slateorange&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
