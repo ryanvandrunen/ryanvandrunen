@@ -24,12 +24,6 @@
 </p>
 <br />
 
-- 🔭 I’m currently working on [RecipMe](https://github.com/ryanvandrunen/qhacks-project)
-
-- 👨‍💻 All of my projects are available at [ryanvandrunen.github.io](https://ryanvandrunen.github.io)
-
-- 📫 How to reach me: **21rdbv@queensu.ca**
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -73,5 +67,3 @@
   <a href="https://github.com/ryanvandrunen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvandrunen&theme=slateorange&show_icons=true&hide_border=false&layout=compact" alt="ryanvandrunen's Top Languages" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-[![Ryan Van Drunen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ryanvandrunen&bg_color=36393f&color=faa627&line=faa627&point=ffffff&area=true&hide_border=true)](https://github.com/ryanvandrunen)
