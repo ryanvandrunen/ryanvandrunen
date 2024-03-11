@@ -53,10 +53,6 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ryanvandrunen"><img src="https://streak-stats.demolab.com?user=ryanvandrunen&theme=slateorange&border_radius=10" alt="GitHub Streak" /></a>
-</p>
-
-<p align="center">
   <a href="https://github.com/ryanvandrunen">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryanvandrunen&theme=slateorange" alt="Ryan Van Drunen's GitHub Contributions"/>
   </a>
