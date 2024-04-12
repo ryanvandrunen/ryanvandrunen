@@ -1,6 +1,3 @@
-<a href="https://github.com/ryanvandrunen">
-  <img align="right" src="https://komarev.com/ghpvc/?username=ryanvandrunen&label=Visitors&color=e36d32&style=flat" alt="Profile visitor" />
-</a>
 
 <h3 align="center">
         <a href="https://github.com/ryanvandrunen"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=E36D32&center=true&random=false&width=435&lines=%3E+Hey+There!+I+am+Ryan+Van+Drunen" alt="Typing SVG" /></a>
