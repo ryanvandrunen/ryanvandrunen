@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <samp>
-    「 Sophomore at Queen's University pursuing a Bachelor of Computing Honours, specializing in Computer Sciences with an option in Security. 」
+    「 Junior at Queen's University pursuing a Bachelor of Computing Honours, specializing in Computer Sciences with an option in Security. 」
     <br>
     <br>
   </samp>
